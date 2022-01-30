@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "861687571078",
+    "project_id": "chat-72645",
+    "storage_bucket": "chat-72645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861687571078:android:938aead02bbff4b4c4a707",
+        "android_client_info": {
+          "package_name": "com.art4muslim.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861687571078-d9bumrgqsns5gc5rsgq1eft88rfla7dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.art4muslim.chat_app",
+            "certificate_hash": "96a60590a8d90baccdcac2e4c134e20ff1363844"
+          }
+        },
+        {
+          "client_id": "861687571078-07s2h0u1nqnrg6i4doa04cauan2u5os5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4Ch01fg7_fNE5r-zLGiAvu0oKnmTFWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861687571078-07s2h0u1nqnrg6i4doa04cauan2u5os5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
